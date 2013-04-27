@@ -22,6 +22,10 @@ A subset of those rules, made solving sudoku grids easier.
 How can I solve a grid?
 =======================
 
+Run `python ui.py`. This will show you a GUI to choose the game and then play it/solve it.
+
+From the terminal:
+
 Run `python main.py`. You will be provided with a list of grids.
 Write just enough to uniquely identify its name, and there you go.
 It will ask you for `DO_LOG`. If you say yes, it will show a log of
